@@ -5,6 +5,10 @@ import java.io.IOException;
 
 import exceptions.InvalidArgumentException;
 
+/*
+ * Input : fichier texte
+ * Output: sortie standard
+ */
 public class Main {
 
 	public static void main(String[] args) throws IOException, InvalidArgumentException {
